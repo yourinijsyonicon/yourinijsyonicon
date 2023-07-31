@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+All the available code templates and repositories are free to use. Feel free to contribute.
+
+Yonicon bv or any of its authors assume no responsibility or liability for any errors or omissions in the content of any of the published content.
+
 <!--
 **yourinijsyonicon/yourinijsyonicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
